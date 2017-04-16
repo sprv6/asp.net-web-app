@@ -1,0 +1,9 @@
+c:\users\sprv6\documents\visual studio 2017\Projects\McvMovie\McvMovie\bin\Debug\netcoreapp1.1\McvMovie.deps.json
+c:\users\sprv6\documents\visual studio 2017\Projects\McvMovie\McvMovie\bin\Debug\netcoreapp1.1\McvMovie.runtimeconfig.json
+c:\users\sprv6\documents\visual studio 2017\Projects\McvMovie\McvMovie\bin\Debug\netcoreapp1.1\McvMovie.runtimeconfig.dev.json
+c:\users\sprv6\documents\visual studio 2017\Projects\McvMovie\McvMovie\bin\Debug\netcoreapp1.1\McvMovie.dll
+c:\users\sprv6\documents\visual studio 2017\Projects\McvMovie\McvMovie\bin\Debug\netcoreapp1.1\McvMovie.pdb
+c:\users\sprv6\documents\visual studio 2017\Projects\McvMovie\McvMovie\obj\Debug\netcoreapp1.1\McvMovie.csprojResolveAssemblyReference.cache
+c:\users\sprv6\documents\visual studio 2017\Projects\McvMovie\McvMovie\obj\Debug\netcoreapp1.1\McvMovie.AssemblyInfo.cs
+c:\users\sprv6\documents\visual studio 2017\Projects\McvMovie\McvMovie\obj\Debug\netcoreapp1.1\McvMovie.dll
+c:\users\sprv6\documents\visual studio 2017\Projects\McvMovie\McvMovie\obj\Debug\netcoreapp1.1\McvMovie.pdb
